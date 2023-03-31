@@ -8,17 +8,18 @@ Cette expérience m'a permis d'acquérir des connaissances approfondies ✨ dans
 <div>
   <img src="https://user-images.githubusercontent.com/126667815/229180382-4b4bc50c-18da-4a57-9d31-e9bf833e21a7.png" alt="image" width="100"/>
   <img src="https://user-images.githubusercontent.com/126667815/229181007-227f59d6-d93f-4c43-b276-a1fa2c04a84d.png" alt="image" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="image" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="image" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="image" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="image" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="image" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1183/1183639.png" alt="image" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/273/273564.png" alt="image" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/300/300221.png" alt="image" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670330.png" alt="image" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732204.png" alt="image" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="image" width="100"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="image" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="image" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="image" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="image" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="image" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1183/1183639.png" alt="image" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/273/273564.png" alt="image" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/300/300221.png" alt="image" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670330.png" alt="image" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732204.png" alt="image" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="image" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="image" width="50"/>
 </div>
 
 
