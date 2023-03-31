@@ -17,6 +17,8 @@ Cette expérience m'a permis d'acquérir des connaissances approfondies ✨ dans
   <img src="https://cdn-icons-png.flaticon.com/512/273/273564.png" alt="image" width="100"/>
   <img src="https://cdn-icons-png.flaticon.com/512/300/300221.png" alt="image" width="100"/>
   <img src="https://cdn-icons-png.flaticon.com/512/3670/3670330.png" alt="image" width="100"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732204.png" alt="image" width="100"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="image" width="100"/>
 </div>
 
 
