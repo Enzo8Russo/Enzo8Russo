@@ -5,7 +5,7 @@ Cette expérience m'a permis d'acquérir des connaissances approfondies ✨ dans
 
 ### Langages et outil :
 
-![image](https://user-images.githubusercontent.com/126667815/229180382-4b4bc50c-18da-4a57-9d31-e9bf833e21a7.png)
+<img src="https://user-images.githubusercontent.com/126667815/229180382-4b4bc50c-18da-4a57-9d31-e9bf833e21a7.png" alt="image" width="200"/>
 
 <!--
 **Enzo8Russo/Enzo8Russo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
