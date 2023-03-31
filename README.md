@@ -8,6 +8,7 @@ Cette expérience m'a permis d'acquérir des connaissances approfondies ✨ dans
 <div>
   <img src="https://user-images.githubusercontent.com/126667815/229180382-4b4bc50c-18da-4a57-9d31-e9bf833e21a7.png" alt="image" width="100"/>
   <img src="https://user-images.githubusercontent.com/126667815/229181007-227f59d6-d93f-4c43-b276-a1fa2c04a84d.png" alt="image" width="100"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="image" width="100"/>
 </div>
 
 
