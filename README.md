@@ -5,7 +5,7 @@ Cette expérience m'a permis d'acquérir des connaissances approfondies ✨ dans
 
 ### Langages et outil :
 
-https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png
+![image](https://user-images.githubusercontent.com/126667815/229180382-4b4bc50c-18da-4a57-9d31-e9bf833e21a7.png)
 
 <!--
 **Enzo8Russo/Enzo8Russo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
